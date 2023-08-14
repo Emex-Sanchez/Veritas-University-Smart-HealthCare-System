@@ -1,1 +1,5 @@
 # Veritas-University-Smart-HealthCare-System
+
+Technologies advancements in healtcare in Nigeria have been been helping Nigerians to make informed decisions about their health while some citizens still lack the skill in navigating health data due to the vase structures of healthcare databases. To combat these issues we have developed a program to provide personalized , accessible and actionable health information and recommendations.
+The premise of VISHD is a smart health system with reilable documentations which exploits the idea of the internet of things and improves the already existing health care system in nigeria focusing on the students of VERITAS UNIVERSITY ABUJA.
+This system will aid doctors and medical practitioners to detect various diseases and find a solution without patients having to join a long line for hours waiting to see a doctor.This application for Veritas University has revolutioizes the existing health care system and provided support for the health workers, patients and other stakeholders
